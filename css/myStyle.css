@@ -1,0 +1,17 @@
+.backRed{background-color: #ad1102;}  .textwhite{color: white!important;}  .textRed{color: #ad1102;}  .backGreen{background-color: #005f01;} .textGreen{color: #005f01;} .textBlack{color: #303030;}
+ .mynav{
+     border-radius: 0px!important;
+     margin: 0px!important;
+ }
+.nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #e41102;
+}
+.textRight{
+    text-align: right!important;
+    direction: rtl!important;
+}
+.textCenter{
+    text-align: center!important;
+    direction: rtl!important;
+}
