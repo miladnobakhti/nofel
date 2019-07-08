@@ -15,3 +15,17 @@
     text-align: center!important;
     direction: rtl!important;
 }
+.pruductParentDiv{
+    background-image: url("../img/bg01.jpg");
+}
+.productParentContainer>div{
+    margin-top: 20px;
+}
+.pruductParentDiv2{
+    background-image: url("../img/bg01.jpg");
+}
+.productParentDiv3{
+    background-color: #ad1102;
+    height: 400px;
+
+}
